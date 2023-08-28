@@ -1,6 +1,6 @@
 # Hey there! I'm Hiba Chouchene 👋
 
-## About Me 👨🏻‍💻
+## About Me 👩🏻‍💻
 
 I enjoy building cool and interesting websites and tools for fun and learning, primarily using **React.js** and **Node.js**. Feel free to scroll down and explore my projects – you might just love them! 😁
 
