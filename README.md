@@ -55,7 +55,7 @@ I enjoy building cool and interesting websites and tools for fun and learning, p
 
 <p align="center">
   <a href=""><img alt="Website" src="https://img.shields.io/badge/Website--blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/hiba-chouchene/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hiba-chouchene-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hiba-chouchene/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hiba-chouchene-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/hibachouchene/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hibachouchene-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:hibachouchene128@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hibachouchene128@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
