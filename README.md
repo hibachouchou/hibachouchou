@@ -31,7 +31,7 @@ I enjoy building cool and interesting websites and tools for fun and learning, p
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 
 - 🛢 Databases:
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
