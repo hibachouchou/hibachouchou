@@ -6,7 +6,7 @@ I enjoy building cool and interesting websites and tools for fun and learning, p
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduate with a degree in Information System Development from the Higher Institute of Technological Studies of Nabeul.
-- 🌱 Currently learning DevOps tools (Kubernetes, Gitlab CI/CD, Jenkins, Ansible, and Cloud), Web Development (Next.js and other JS libraries), Databases (GraphQL,PostgreSQL) and QA and Test (Jest and Mocha).
+- 🌱 Currently learning DevOps tools (Kubernetes, GitHub Actions, Terraform and AWS).
 - 💬 Ping me about **full stack web development** and **MicroServices**.
 - 📫 You can reach me at hibachouchene128@gmail.com.
 - ⚡️ Fun fact: I'm a huge fan of Anime and manga!
