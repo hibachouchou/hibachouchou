@@ -25,9 +25,9 @@ I enjoy building cool and interesting websites and tools for fun and learning, p
 - ♾️ DevOps:
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
-  ![Github Actions](https://img.shields.io/badge/-Github Actions-333333?style=flat&logo=github actions)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  
 - 🌐 Web Technologies:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
