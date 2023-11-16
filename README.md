@@ -2,7 +2,7 @@
 
 ## About Me 👩🏻‍💻
 
-I enjoy building cool and interesting websites and tools for fun and learning, primarily using **React.js** and **Node.js**. Feel free to scroll down and explore my projects – you might just love them! 😁
+I enjoy building cool and interesting websites and tools for fun and learning . Feel free to scroll down and explore my projects – you might just love them! 😁
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduate with a degree in Information System Development from the Higher Institute of Technological Studies of Nabeul.
