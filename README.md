@@ -16,6 +16,7 @@ I enjoy building cool and interesting websites and tools for fun and learning, p
  
 - 💻 Programming Languages:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=007ACC)
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=76E1FE)
