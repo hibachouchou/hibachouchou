@@ -8,7 +8,7 @@ I enjoy building cool and interesting websites and tools for fun and learning . 
 - 🎓 Graduate with a degree in Information System Development from the Higher Institute of Technological Studies of Nabeul.
 - 🌱 Currently learning DevOps tools (Kubernetes, GitHub Actions, Terraform and AWS).
 - 📫 You can reach me at hibachouchene128@gmail.com.
-- ⚡️ Fun fact: I'm a huge fan of Anime and manga!
+
 
 ---
 
