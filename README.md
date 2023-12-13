@@ -17,14 +17,6 @@ I enjoy building cool and interesting websites and tools for fun and learning . 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-  
-- ♾️ DevOps:
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
- 
-  
 - 🌐 Web Technologies:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
@@ -42,6 +34,12 @@ I enjoy building cool and interesting websites and tools for fun and learning . 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![InfluxDB](https://img.shields.io/badge/-InfluxDB-333333?style=flat&logo=influxdb)
+
+  - ♾️ DevOps:
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 - ⚙️ Tools:
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
