@@ -15,9 +15,8 @@ I enjoy building cool and interesting websites and tools for fun and learning . 
  
 - 💻 Programming Languages:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=007ACC)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=76E1FE)
+
   
 - ♾️ DevOps:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -29,13 +28,15 @@ I enjoy building cool and interesting websites and tools for fun and learning . 
 - 🌐 Web Technologies:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
   ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
- 
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=76E1FE)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=76E1FE)
 
 - 🛢 Databases:
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -54,7 +55,7 @@ I enjoy building cool and interesting websites and tools for fun and learning . 
 ## Connect with Me 🤝🏻
 
 <p align="center">
-  <a href=""><img alt="Website" src="https://img.shields.io/badge/Website--blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://myportfolio-hiba-chouchene-dev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website--blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/hiba-chouchene/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:hibachouchene128@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hibachouchene128@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
