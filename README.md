@@ -8,7 +8,7 @@ I enjoy building cool and interesting websites and tools for fun and learning . 
 - 🎓 Graduate with a degree in Information System Development from the Higher Institute of Technological Studies of Nabeul.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hiba-chouchene/) [Gmail](mailto:hibachouchene128@gmail.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hibachouchou&show_icons=true&hide_border=true">
+
 
 ---
 
