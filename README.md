@@ -6,7 +6,7 @@ I enjoy building cool and interesting websites and tools for fun and learning . 
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduate with a degree in Information System Development from the Higher Institute of Technological Studies of Nabeul.
-- 📫 You can reach me at hibachouchene128@gmail.com.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hiba-chouchene/) [Gmail](mailto:hibachouchene128@gmail.com)
 
 
 ---
@@ -50,13 +50,7 @@ I enjoy building cool and interesting websites and tools for fun and learning . 
 
 ---
 
-## Connect with Me 🤝🏻
 
-<p align="center">
-  <a href="https://myportfolio-hiba-chouchene-dev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website--blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/hiba-chouchene/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:hibachouchene128@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hibachouchene128@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ---
 
