@@ -6,7 +6,7 @@
 
 - 💻 Exploring new technologies and developing software solutions.
 - 🎓 Graduate with a degree in Information System Development from the Higher Institute of Technological Studies of Nabeul.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hiba-chouchene/)  | [Gmail](mailto:hibachouchene128@gmail.com)  | 🌐 [Personal Site](https://myportfolio-hiba-chouchene-dev.netlify.app/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hiba-chouchene/)  | [Gmail](mailto:hibachouchene128@gmail.com)  | 🌐 [Personal Site](https://hiba-chouchene-portfolio.netlify.app/)
 
 
 
