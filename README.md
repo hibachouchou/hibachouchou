@@ -53,7 +53,7 @@
 ---
 
 ##
-![Github meme](github.jpg)
+
 
 ---
 
