@@ -31,6 +31,7 @@
   ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=76E1FE)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=76E1FE)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=76E1FE)
 
 - 🛢 Databases:
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
