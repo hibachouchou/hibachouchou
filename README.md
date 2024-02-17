@@ -1,6 +1,6 @@
 # Hello World  🌍👋
 
-👩🏻‍💻 I enjoy building cool and interesting websites and tools for fun and learning . Feel free to scroll down and explore my projects – you might just love them! 😁
+👩🏻‍💻 I enjoy building cool and interesting websites and tools for fun and learning. Feel free to scroll down and explore my projects – you might just love them! 😁
 
 ## About Me :
 
