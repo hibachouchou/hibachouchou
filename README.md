@@ -28,7 +28,6 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-  
   ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=76E1FE)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=76E1FE)
