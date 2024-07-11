@@ -6,7 +6,6 @@
 
 - 💻 Exploring new technologies and developing software solutions.
 - 🎓 Graduate with a bachelor's degree in Information System Development from the Higher Institute of Technological Studies of Nabeul.
-- 🎀 I'm just a girl in the world.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hiba-chouchene/)  | 📬 [Gmail](mailto:hibachouchene128@gmail.com)  | 🌐 [Personal Site](https://hiba-chouchene-portfolio.netlify.app/)
 
 
