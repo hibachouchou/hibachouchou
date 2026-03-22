@@ -1,8 +1,9 @@
 <div align="center">
 <!-- Barbie Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20Barbie🩷 %20👩🏻‍💻&fontSize=50&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" width="100%"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20Barbie!%20👩🏻‍💻&fontSize=50&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" width="100%"/>
+<!-- Profile Image -->
+<img src="Hi_Barbie____.jpg" width="220px" style="border-radius: 50%; border: 5px solid #FF69B4;" alt="Tunisian Barbie who loves to code 💻"/>
+<br/>
 # 🩷 Hiba Chouchene : *Tunisian Barbie who loves to code* 🩷
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+JS+Developer+💻;AI+%26+ML+Engineer+in+the+making+🤖;Marine+Robotics+Researcher+🌊;Smart+Systems+%26+AI+Master's+Student+🎓)](https://git.io/typing-svg)
