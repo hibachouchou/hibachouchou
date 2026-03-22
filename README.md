@@ -4,7 +4,7 @@
 
 # 🩷 Hiba Chouchene : *Tunisian Barbie who loves to code* 🩷
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+JS+Developer+💻;AI+%26+ML+Engineer+in+the+making+🤖;Marine+Robotics+Researcher+🌊;Smart+Systems+%26+AI+Master's+Student+🎓)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+JS+Developer+💻;AI+%26+ML+Engineer;Marine+Robotics+Researcher+🌊;Smart+Systems+%26+AI+Master's+Student+🎓)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/hiba-chouchene/"><img src="https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
