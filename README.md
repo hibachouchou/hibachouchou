@@ -135,7 +135,7 @@
 
 <br/>
 
-🎵 **Music**: My taste lives between classical and modern, but Arabic music owns my heart completely. The **Oud** is my favourite instrument —,there's nothing like it. I'm also a **choir alto singer** 🎶
+🎵 **Music**: My taste lives between classical and modern, but Arabic music owns my heart completely. The **Oud** is my favourite instrument,there's nothing like it. I'm also a **choir alto singer** 🎶
 
 📺 **Series & Movies** : A devoted fan of **2000s cinema and TV** , that era just hits different ✨
 
