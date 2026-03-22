@@ -1,9 +1,7 @@
 <div align="center">
 <!-- Barbie Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20Barbie!%20👩🏻‍💻&fontSize=50&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" width="100%"/>
-<!-- Profile Image -->
-<img src="Hi_Barbie____.jpg" width="220px" style="border-radius: 50%; border: 5px solid #FF69B4;" alt="Tunisian Barbie who loves to code 💻"/>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20Barbie🩷 %20👩🏻‍💻&fontSize=50&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" width="100%"/>
+
 
 # 🩷 Hiba Chouchene : *Tunisian Barbie who loves to code* 🩷
 
