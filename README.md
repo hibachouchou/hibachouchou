@@ -3,7 +3,7 @@
 <!-- Barbie Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20Barbie!%20👩🏻‍💻&fontSize=50&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Profile Image -->
+
 
 # 🩷 Hiba Chouchene — *Tunisian Barbie who loves to code* 🩷
 
@@ -49,7 +49,7 @@
 |---|---|---|
 | 🧠 | **Learning** | Going deeper into ML · DL · RL — and **Computer Vision (YOLO)** is next! |
 | 🚀 | **Building** | AI-powered tools, web apps, and underwater robotics solutions |
-| 🌱 | **Growing** | Manara program (problem-solving, JS) · Forward McKinsey (leadership, PM) |
+| 🌱 | **Leading** | Manara Women in Tech Ambassador · Community Events Lead |
 
 ---
 
@@ -65,6 +65,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF85C1.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FFB6C1.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%23FF69B4.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23FF85C1.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision%20(soon🔜)-%23FFD1DC.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
@@ -73,7 +74,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23FF85C1.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23FFB6C1.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -117,27 +117,25 @@
 ### 🔧 Tools & IDE
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23FF85C1.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23FFB6C1.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23FF69B4.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23FFB6C1.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23FFD1DC.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&text=My%20Interests%20🩷&fontSize=30&fontColor=fff" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&text=Beyond%20the%20Code%20🌸&fontSize=30&fontColor=fff" width="60%"/>
 </div>
 
 <br/>
 
-🤖 **Artificial Intelligence** — Machine Learning · Deep Learning · Reinforcement Learning · (soon: Computer Vision 👀)
+🎵 **Music** — My taste lives between classical and modern, but Arabic music owns my heart completely. The **oud** is my favourite instrument — there's nothing like it. I'm also a **choir alto singer** 🎶
 
-🌊 **Marine Robotics** — Autonomous Underwater Vehicles (AUVs) · Ocean target search optimization
+📺 **Series & Movies** — A devoted fan of **2000s cinema and TV** — that era just hits different ✨
 
-🌐 **Web Development** — Building user-friendly, scalable, and modern web applications
+✍️ **Writing** — I write blogs, both emotional and technical. Words are just another way to build things 🩷
 
-🛠️ **System Design** — Robust and efficient architectures with a focus on performance
-
-☁️ **Cloud Computing** — AWS · cloud-based deployment and scalability
-
-♾️ **DevOps** — Docker · Terraform · CI/CD pipelines
+🌍 **Languages** — Arabic 🇹🇳 *(mother tongue)* · English 🇬🇧 *(B2)* · French 🇫🇷 *(B2)*
 
 ---
 
@@ -158,8 +156,7 @@
 
 <div align="center">
 
-*"She's everything. He's just Ken."* — But in her case:  
-**She builds the AUVs, trains the models, and ships the code.** 🌊🩷🤖
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=⭐️%20from%20@hibachouchou&fontSize=20&fontColor=fff&fontAlignY=65"/>
 
