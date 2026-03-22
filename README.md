@@ -24,11 +24,11 @@
 
 > *"She's not just a Barbie: she codes, researches, trains the models and dives deep, literally 🌊"* 
 
-🎓 **Master's in Smart Systems & Artificial Intelligence** : diving deep into **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**
+🎓 **Master's in Smart Systems & Artificial Intelligence**.
 
-🌊 **Master's Thesis: Marine Robotics (AUV)**: optimizing target search algorithms for Autonomous Underwater Vehicles in ocean environments
+🌊 **Master's Thesis: Marine Robotics (AUV)**: optimizing target search algorithms for Autonomous Underwater Vehicles in ocean environments.
 
-💻 **Full Stack Developer** : crafting scalable, beautiful web applications
+💻 **Full Stack Developer**: crafting scalable, beautiful web applications.
 
 🦾 **AI Researcher** : focused on ML · DL · RL, and soon to explore **Computer Vision & YOLO** 👀
 
@@ -57,11 +57,22 @@
 ### 🤖 AI / Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-%23FF69B4.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23FF69B4.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF85C1.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FFB6C1.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%23FF69B4.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23FF85C1.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision%20(soon🔜)-%23FFD1DC.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-%23FFB6C1.svg?style=for-the-badge&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FF69B4.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+### 🤖 Robotics Technologies Stack
+
+![ROS2](https://img.shields.io/badge/ROS2-%23FF85C1.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-%23FFB6C1.svg?style=for-the-badge&logo=gazebo&logoColor=white)
+![UUV Simulator](https://img.shields.io/badge/UUV%20Simulator-%23FFD1DC.svg?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -76,11 +87,11 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%23FF85C1.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23FF69B4.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23FFB6C1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23FF69B4.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23FF85C1.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23FFB6C1.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23FF69B4.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -150,8 +161,6 @@
 ---
 
 <div align="center">
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=⭐️%20from%20@hibachouchou&fontSize=20&fontColor=fff&fontAlignY=65"/>
 
