@@ -1,60 +1,169 @@
-# Hello World! 🌍👋  
+<div align="center">
 
-👩🏻‍💻 I’m a **Full Stack Developer** and **Aspiring AI/ML Engineer** who loves building cool and impactful projects. Whether it’s crafting elegant websites or diving into the fascinating world of Artificial Intelligence, I’m always excited to learn, experiment, and create. Feel free to explore my repositories – you might just find something you love! 😁  
+<!-- Barbie Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20Barbie!%20👩🏻‍💻&fontSize=50&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" width="100%"/>
 
----
+<!-- Profile Image -->
+<img src="Hi_Barbie____.jpg" width="220px" style="border-radius: 50%; border: 5px solid #FF69B4;" alt="Tunisian Barbie who loves to code 💻"/>
 
-## About Me  
+<br/>
 
-- 🎓 **Master’s Student in Artificial Intelligence** – Currently diving deep into **Machine Learning**, **Deep Learning**, **NLP**, and **Large Language Models (LLMs)**.  
-- 💻 **Full Stack Developer** – Proficient in building scalable web applications.  
-- 🤖 **AI Enthusiast** – Actively learning and applying AI/ML concepts in **Python**, with a focus on transitioning into an **AI/ML Engineer** role.  
-- 🛠️ **Tech Explorer** – Always exploring new tools and technologies, from **DevOps**  to advanced system design concepts.  
-- 🎓 **Bachelor’s Degree** in Information System Development from the Higher Institute of Technological Studies of Nabeul.  
+# 🩷 Hiba Chouchene — *Tunisian Barbie who loves to code* 🩷
 
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/hiba-chouchene/) | 📬 [Gmail](mailto:hibachouchene128@gmail.com) | 🌐 [Personal Site](https://hiba-chouchene-portfolio.netlify.app/)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;AI+%26+ML+Engineer+in+the+making+🤖;Marine+Robotics+Researcher+🌊;Smart+Systems+%26+AI+Master's+Student+🎓;Tunisian+Barbie+who+loves+to+code+🩷)](https://git.io/typing-svg)
 
----
+<p>
+  <a href="https://www.linkedin.com/in/hiba-chouchene/"><img src="https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hibachouchene128@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23FF85C1.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://hiba-chouchene-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23FFB6C1.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 
-## Tech Stack 🛠  
-
-### 💻 Programming Languages:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
-
-### 🌐 Web Technologies:  
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=1572B6)  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=1572B6)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)  ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=76E1FE)  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=76E1FE)  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=76E1FE)  
-
-### 🛢 Databases:  
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
-
-### ♾️ DevOps:  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)  
-
-### ⚙️ Tools:  
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)  
-
-### 🔧 IDE:  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
+</div>
 
 ---
 
-## What I’m Up To  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&text=About%20Me%20🌸&fontSize=30&fontColor=fff" width="60%"/>
+</div>
 
-- 🔍 **Researching** – Exploring cutting-edge AI/ML techniques and contributing to the field through my Master’s studies.  
-- 🧠 **Learning** – Deepening my knowledge in **Machine Learning**, **Deep Learning**, and **NLP**, while applying what I learn in real-world projects.  
-- 🚀 **Building** – Creating tools, websites, and AI-powered solutions to solve interesting problems.  
-- 🌱 **Growing** – Enhancing my skills through programs like **Manara** (problem-solving, JavaScript) and **Forward McKinsey** (soft skills, leadership, project management).  
+<br/>
+
+> *"She's not just a Barbie — she builds the robots, trains the models, and deploys the ships."* 🌊🤖
+
+🎓 **Master's in Smart Systems & Artificial Intelligence** — diving deep into **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**
+
+🌊 **Master's Thesis: Marine Robotics (AUV)** — optimizing target search algorithms for Autonomous Underwater Vehicles in ocean environments
+
+💻 **Full Stack Developer** — crafting scalable, beautiful web applications
+
+🦾 **AI Researcher** — focused on ML · DL · RL, and soon to explore **Computer Vision & YOLO** 👀
+
+🌍 Proud **Tunisian Barbie** who codes, researches, and dives deep — literally 🌊
 
 ---
 
-## My Interests  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&text=What%20I'm%20Up%20To%20✨&fontSize=30&fontColor=fff" width="60%"/>
+</div>
 
-- 🤖 **Artificial Intelligence** – Machine Learning, Deep Learning, NLP, and LLMs.  
-- 🌐 **Web Development** – Building user-friendly, scalable, and modern web applications.  
-- 🛠️ **System Design** – Designing robust and efficient systems with a focus on scalability and performance.  
-- ☁️ **Cloud Computing** – Exploring AWS and cloud-based solutions for deployment and scalability.  
-- ♾️ **DevOps** – Automating and optimizing development workflows with tools like Docker, Terraform, and CI/CD pipelines.  
+<br/>
+
+| 🔬 | **Researching** | Optimizing AUV target search in ocean environments using RL & smart systems |
+|---|---|---|
+| 🧠 | **Learning** | Going deeper into ML · DL · RL — and **Computer Vision (YOLO)** is next! |
+| 🚀 | **Building** | AI-powered tools, web apps, and underwater robotics solutions |
+| 🌱 | **Growing** | Manara program (problem-solving, JS) · Forward McKinsey (leadership, PM) |
 
 ---
 
-⭐️ From [@hibachouchou](https://github.com/hibachouchou)  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&text=Tech%20Stack%20🛠️&fontSize=30&fontColor=fff" width="60%"/>
+</div>
+
+<br/>
+
+### 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-%23FF69B4.svg?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF85C1.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FFB6C1.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%23FF69B4.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision%20(soon🔜)-%23FFD1DC.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23FF85C1.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FFB6C1.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-%23FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23FF85C1.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23FFB6C1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-%23FF69B4.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23FF85C1.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23FFB6C1.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23FF69B4.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-%23FF69B4.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23FF85C1.svg?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23FFB6C1.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23FF69B4.svg?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-%23FF85C1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23FFB6C1.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ☁️ DevOps & Cloud
+
+![Git](https://img.shields.io/badge/Git-%23FF69B4.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23FF85C1.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23FFB6C1.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF69B4.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🔧 Tools & IDE
+
+![VS Code](https://img.shields.io/badge/VS%20Code-%23FF85C1.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23FFB6C1.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&text=My%20Interests%20🩷&fontSize=30&fontColor=fff" width="60%"/>
+</div>
+
+<br/>
+
+🤖 **Artificial Intelligence** — Machine Learning · Deep Learning · Reinforcement Learning · (soon: Computer Vision 👀)
+
+🌊 **Marine Robotics** — Autonomous Underwater Vehicles (AUVs) · Ocean target search optimization
+
+🌐 **Web Development** — Building user-friendly, scalable, and modern web applications
+
+🛠️ **System Design** — Robust and efficient architectures with a focus on performance
+
+☁️ **Cloud Computing** — AWS · cloud-based deployment and scalability
+
+♾️ **DevOps** — Docker · Terraform · CI/CD pipelines
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats 🩷
+
+<img src="https://github-readme-stats.vercel.app/api?username=hibachouchou&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF85C1&text_color=FF69B4&bg_color=fff0f5&border_color=FFB6C1" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibachouchou&layout=compact&theme=radical&title_color=FF69B4&text_color=FF85C1&bg_color=fff0f5&border_color=FFB6C1" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hibachouchou&theme=radical&ring=FF69B4&fire=FF85C1&currStreakLabel=FF69B4&background=fff0f5&border=FFB6C1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"She's everything. He's just Ken."* — But in her case:  
+**She builds the AUVs, trains the models, and ships the code.** 🌊🩷🤖
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=⭐️%20from%20@hibachouchou&fontSize=20&fontColor=fff&fontAlignY=65"/>
+
+</div>
