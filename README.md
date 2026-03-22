@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/hiba-chouchene/"><img src="https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hibachouchene128@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23FF85C1.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://hiba-chouchene-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23FFB6C1.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://medium.com/@hibachouchene128"><img src="https://img.shields.io/badge/Medium-%23FFD1DC.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 </div>
