@@ -43,7 +43,7 @@
 | 🔬 | **Researching** | Optimizing AUV target search in ocean environments using RL & smart algorithms |
 |---|---|---|
 | 🧠 | **Learning** | Going deeper into ML · DL · RL and **Computer Vision (YOLO)** is next! |
-| 🚀 | **Building** | AI-powered tools, web apps, and underwater robotics solutions |
+| 🚀 | **Building** | AI-powered tools, web apps , ML & DL models|
 | 🌱 | **Leading** | Manara Women in Tech Ambassador · Community Events Lead |
 
 ---
