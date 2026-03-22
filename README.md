@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Barbie Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20Barbie!%20👩🏻‍💻&fontSize=50&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20Barbie🩷 %20👩🏻‍💻&fontSize=50&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" width="100%"/>
 
 
 
-# 🩷 Hiba Chouchene — *Tunisian Barbie who loves to code* 🩷
+# 🩷 Hiba Chouchene : *Tunisian Barbie who loves to code* 🩷
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;AI+%26+ML+Engineer+in+the+making+🤖;Marine+Robotics+Researcher+🌊;Smart+Systems+%26+AI+Master's+Student+🎓;Tunisian+Barbie+who+loves+to+code+🩷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+JS+Developer+💻;AI+%26+ML+Engineer+in+the+making+🤖;Marine+Robotics+Researcher+🌊;Smart+Systems+%26+AI+Master's+Student+🎓)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/hiba-chouchene/"><img src="https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -25,17 +25,15 @@
 
 <br/>
 
-> *"She's not just a Barbie — she builds the robots, trains the models, and deploys the ships."* 🌊🤖
+> *"She's not just a Barbie: she codes, researches, trains the models and dives deep, literally 🌊"* 
 
-🎓 **Master's in Smart Systems & Artificial Intelligence** — diving deep into **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**
+🎓 **Master's in Smart Systems & Artificial Intelligence** : diving deep into **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**
 
-🌊 **Master's Thesis: Marine Robotics (AUV)** — optimizing target search algorithms for Autonomous Underwater Vehicles in ocean environments
+🌊 **Master's Thesis: Marine Robotics (AUV)**: optimizing target search algorithms for Autonomous Underwater Vehicles in ocean environments
 
-💻 **Full Stack Developer** — crafting scalable, beautiful web applications
+💻 **Full Stack Developer** : crafting scalable, beautiful web applications
 
-🦾 **AI Researcher** — focused on ML · DL · RL, and soon to explore **Computer Vision & YOLO** 👀
-
-🌍 Proud **Tunisian Barbie** who codes, researches, and dives deep — literally 🌊
+🦾 **AI Researcher** : focused on ML · DL · RL, and soon to explore **Computer Vision & YOLO** 👀
 
 ---
 
@@ -47,7 +45,7 @@
 
 | 🔬 | **Researching** | Optimizing AUV target search in ocean environments using RL & smart systems |
 |---|---|---|
-| 🧠 | **Learning** | Going deeper into ML · DL · RL — and **Computer Vision (YOLO)** is next! |
+| 🧠 | **Learning** | Going deeper into ML · DL · RL and **Computer Vision (YOLO)** is next! |
 | 🚀 | **Building** | AI-powered tools, web apps, and underwater robotics solutions |
 | 🌱 | **Leading** | Manara Women in Tech Ambassador · Community Events Lead |
 
@@ -117,8 +115,8 @@
 ### 🔧 Tools & IDE
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23FF85C1.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23FFB6C1.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23FF69B4.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23FFB6C1.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23FFD1DC.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
@@ -129,13 +127,13 @@
 
 <br/>
 
-🎵 **Music** — My taste lives between classical and modern, but Arabic music owns my heart completely. The **oud** is my favourite instrument — there's nothing like it. I'm also a **choir alto singer** 🎶
+🎵 **Music**: My taste lives between classical and modern, but Arabic music owns my heart completely. The **Oud** is my favourite instrument —,there's nothing like it. I'm also a **choir alto singer** 🎶
 
-📺 **Series & Movies** — A devoted fan of **2000s cinema and TV** — that era just hits different ✨
+📺 **Series & Movies** : A devoted fan of **2000s cinema and TV** , that era just hits different ✨
 
-✍️ **Writing** — I write blogs, both emotional and technical. Words are just another way to build things 🩷
+✍️ **Writing**: I write blogs, both emotional and technical. Words are just another way to build things 🩷
 
-🌍 **Languages** — Arabic 🇹🇳 *(mother tongue)* · English 🇬🇧 *(B2)* · French 🇫🇷 *(B2)*
+🌍 **Languages** : Arabic 🇹🇳 *(mother tongue)* · English 🇬🇧 *(B2)* · French 🇫🇷 *(B2)*
 
 ---
 
