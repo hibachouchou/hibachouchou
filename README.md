@@ -136,10 +136,6 @@
 
 <br/>
 
-🎵 **Music**: My taste lives between classical and modern, but Arabic music owns my heart completely. The **Oud** is my favourite instrument. I'm also a **Choir Alto Singer** 🎶
-
-📺 **Series & Movies** : A devoted fan of **2000s cinema and TV** , that era just hits different ✨
-
 ✍️ **Writing**: I write blogs, both emotional and technical. Words are just another way to build things 🩷
 
 🌍 **Languages** : Arabic 🇹🇳 *(mother tongue)* · English 🇬🇧 *(B2)* · French 🇫🇷 *(B2)*
