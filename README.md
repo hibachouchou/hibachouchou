@@ -142,18 +142,7 @@
 
 ---
 
-<div align="center">
 
-### 📊 GitHub Stats 🩷
-
-<img src="https://github-readme-stats.vercel.app/api?username=hibachouchou&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF85C1&text_color=FF69B4&bg_color=fff0f5&border_color=FFB6C1" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibachouchou&layout=compact&theme=radical&title_color=FF69B4&text_color=FF85C1&bg_color=fff0f5&border_color=FFB6C1" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hibachouchou&theme=radical&ring=FF69B4&fire=FF85C1&currStreakLabel=FF69B4&background=fff0f5&border=FFB6C1"/>
-
-</div>
 
 ---
 
