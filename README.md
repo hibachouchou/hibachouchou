@@ -31,7 +31,7 @@
 
 💻 **Full Stack Developer**: crafting scalable, beautiful web applications.
 
-🦾 **AI Researcher** : focused on ML · DL · RL, and soon to explore **Computer Vision & YOLO** 👀
+🦾 **AI Researcher** : focused on ML · DL · RL, and soon to explore ** ** 👀
 
 ---
 
@@ -43,9 +43,9 @@
 
 | 🔬 | **Researching** | Optimizing AUV target search in ocean environments using RL & smart algorithms |
 |---|---|---|
-| 🧠 | **Learning** | Going deeper into ML · DL · RL and **Computer Vision (YOLO)** is next! |
+| 🧠 | **Learning** | Going deeper into ML · DL · RL and ** ** is next! |
 | 🚀 | **Building** | AI-powered tools, web apps , ML & DL models|
-| 🌱 | **Leading** | Manara Women in Tech Ambassador · Community Events Lead |
+| 🌱 | **Leading** |  |
 
 ---
 
@@ -63,17 +63,6 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FFB6C1.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%23FF69B4.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23FF85C1.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision%20(soon🔜)-%23FFD1DC.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-%23FFB6C1.svg?style=for-the-badge&logo=yolo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23FF69B4.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-### 🤖 Robotics Technologies Stack
-
-![ROS2](https://img.shields.io/badge/ROS2-%23FF85C1.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-%23FFB6C1.svg?style=for-the-badge&logo=gazebo&logoColor=white)
-![UUV Simulator](https://img.shields.io/badge/UUV%20Simulator-%23FFD1DC.svg?style=for-the-badge&logoColor=white)
 
 ---
 
